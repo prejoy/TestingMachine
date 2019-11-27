@@ -1,0 +1,11 @@
+#my ignore files 
+Debug/
+.settings/
+copy.bat
+*.lnk
+App/*.rar
+Drivers/CMSIS/
+.cproject
+.project
+*.txt
+*.oric
